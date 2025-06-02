@@ -69,7 +69,11 @@ Example:
 
 ```bash
 ./game_of_life simulate
+```
+![img](https://github.com/Aditya-Dawadikar/ConwaysGameOfLife/blob/master/views/game_of_life_2-ezgif.com-optimize.gif)
 
 
 ```bash
 ./game_of_life observe glider
+```
+![img](https://github.com/Aditya-Dawadikar/ConwaysGameOfLife/blob/master/views/ezgif.com-video-to-gif-converter.gif)
